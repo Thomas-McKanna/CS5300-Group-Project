@@ -1,0 +1,20 @@
+﻿book,title,author,binding,pubdate,publisher,isbn10,isbn13,condition,dustjacket,signed,edition,price,descr,synopsis,about_auth
+1,Title1,"L1,F1",Paperback,NA,Pub1,486400611,9780490000000,Very Good,NA,NA,NA,3.65,desc1,Synopsis1,About A1
+2,Title2,"L2,F2",Paperback,1970,Pub2,156186004,9780160000000,Good,NA,NA,NA,NA,desc2,Synopsis2,About A2
+3,Title3,"L3,F3",Hard Cover,1973,Pub3,NA,NA,Good,NA,Yes,Second Printing.,2.99,desc3,Synopsis3,About A3
+4,Title4,"L4,F4",Paperback,NA,Pub1,451525051,9780450000000,Very Good,NA,NA,NA,3.8,desc4,Synopsis4,About A4
+5,Title5,"L1,F1",Paperback,NA,Pub2,446941786,9780450000000,Good,NA,NA,NA,4.87,desc5,Synopsis5,About A1
+6,Title6,"L2,F2",Hard Cover,1955,Pub3,NA,NA,Very Good,NA,NA,First Edition.,14.95,desc6,Synopsis6,About A2
+7,Title7,"L3,F3",Paperback,NA,Pub1,916144224,9780920000000,Good,NA,NA,NA,4.29,desc7,Synopsis7,About A1
+8,Title8,"L4,F4",NA,1971,Pub2,NA,NA,Good,NA,NA,First Paperback Edition.,10,desc8,Synopsis8,About A2
+9,Title9,"L1,F1",Paperback,1969,Pub3,NA,NA,Good,Yes,NA,NA,14.57,desc9,Synopsis9,About A1
+10,Title10,"L2,F2",Paperback,1963,Pub1,NA,NA,NA,NA,NA,1st Edition,7.5,desc10,Synopsis10,About A2
+11,Title11,"L1,F1",NA,NA,Pub2,451176499,9780450000000,Good,NA,NA,NA,3.98,desc11,Synopsis11,About A1
+12,Title12,"L2,F2",Paperback,1973,Pub3,NA,NA,Good,NA,NA,First Edition.,1.99,desc12,Synopsis12,About A2
+13,Title13,"L1,F1",Paperback,1960,Pub1,NA,NA,NA,NA,NA,NA,7.5,desc13,Synopsis13,About A1
+14,Title14,"L2,F2",Hard Cover,NA,Pub2,486212327,9780490000000,Very Good,NA,NA,NA,6.94,desc14,Synopsis14,About A2
+15,Title3,"L3,F3",Paperback,1969,Pub3,045140680X,9780450000000,Very Good,NA,NA,NA,NA,desc15,Synopsis15,About A3
+16,Title16,"L4,F4",NA,NA,Pub1,4511248125,9784510000000,Good,NA,NA,NA,8.96,desc16,Synopsis16,About A4
+17,Title1,"L1,F1",Paperback,NA,Pub1,NA,NA,Used,NA,NA,NA,3.51,desc17,Synopsis17,About A1
+18,Title1,"L1,F1",Paperback,1962,Pub1,NA,NA,Good,NA,NA,NA,10,desc18,Synopsis18,About A1
+19,Title19,"L1,F1",Hard Cover,1977,Pub3,NA,NA,NA,Yes,Yes,NA,16.5,desc19,Synopsis19,About A1
